@@ -2,6 +2,8 @@
 
 #### Sobre o projeto
 
+Documentação da API: https://documenter.getpostman.com/view/21551909/2s83mbq5GT#111a26e6-0be6-48f8-9c6d-8f4c0bdace08
+
 O Labook é uma rede social com o objetivo de promover a conexão e interação entre seus mais diversos usuários. As pessoas poderão criar e curtir publicações.
 
 Ela possui todas as funcionalidades mais comuns em redes sociais:
